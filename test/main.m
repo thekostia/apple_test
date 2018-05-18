@@ -11,6 +11,7 @@
 
 int main(int argc, char * argv[]) {
     printf("Howdy partner!\n");
+    printf("Howdy partner2!\n");
     return 0;
     
 }
